@@ -176,25 +176,6 @@ section {
     display: flex;
 }
 
-/* Circular Profile Picture */
-
-.section__pic-container {
-    display: inline-block;
-    overflow: hidden;
-    border-radius: 50%;
-    width: 100px; /* Adjust the width as needed */
-    height: 100px; /* Adjust the height as needed */
-    margin-right: 20px; 
-    background-color: #fff; 
- } 
-
- .section__pic-container img { 
-     width: 100%; 
-     height: 100%; 
-     object-fit: cover; 
-     border-radius: 50%; 
-}  
-
 /* PROFILE SECTION */
 
 #profile {
@@ -225,7 +206,7 @@ section {
 }
 
 .section__text__p2 {
-    font-size: 1.75rem;
+    font-size: 2rem;
     margin-bottom: 1rem;
 }
 
@@ -254,7 +235,7 @@ section {
 .btn-container {
     display: flex;
     justify-content: center;
-    gap: 1rem;
+    gap: 4rem;
 }
 
 .btn {
