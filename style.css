@@ -404,8 +404,9 @@ article.icon {
 #contact {
     display: flex;
     justify-content: center;
+    align-items: center;
     flex-direction: column;
-    height: 70vh;
+    height: 80vh;
 }
 
 .contact-info-upper-container {
