@@ -406,7 +406,9 @@ article.icon {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-  margin-top: 2rem;  /* Adjust the top margin as needed */
+    padding-top: 2rem; /* Adjust the top padding as needed */
+    padding-bottom: 2rem; /* Adjust the bottom padding as needed */
+    
 }
 
 .contact-info-upper-container {
