@@ -383,7 +383,7 @@ article.icon {
 }
 
 .project-img {
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     width: 50%; 
     height: 50%;
 }
