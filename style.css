@@ -384,8 +384,8 @@ article.icon {
 
 .project-img {
     border-radius: 1rem;
-    width: 80%;
-    height: 80%;
+    width: 200px; 
+    height: auto;
 }
 
 .project-img {
