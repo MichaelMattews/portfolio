@@ -1,5 +1,5 @@
 @media screen and (max-width: 1400px) {
-    #profile {
+    /* #profile {
         height: 83vh;
         margin-bottom: 6rem;
     }
@@ -8,12 +8,12 @@
     }
     #contact,
     #projects {
-      height: f-moz-fit-content;
+      height: f-moz-fit-content;*/
     }
 }
     
 @media screen and (max-width: 1200px) {
-    #desktop-nav {
+   /* #desktop-nav {
         display: none;
     }
     #hamburger-nav {
@@ -21,7 +21,7 @@
     }
     #experience, 
     .experience-details-container {
-        margin-top: 2rem;
+        margin-top: 2rem;*/
     }
     #prfile,
     .section-container {
@@ -53,7 +53,7 @@
         }
         #profile {
             height: 83vh;
-            margin-bottom: 0;
+           /* margin-bottom: 0;*/
         }
         article {
             font-size: 1rem;
