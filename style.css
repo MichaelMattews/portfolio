@@ -383,9 +383,9 @@ article.icon {
 }
 
 .project-img {
-    border-radius: 1rem;
-    width: 300px; 
-    height: auto;
+    border-radius: 2rem;
+    width: 90%; 
+    height: 90%;
 }
 
 .project-img {
