@@ -444,8 +444,11 @@ article.icon {
 footer {
     height: 26vh;
     margin: 0 1rem;
+    margin-bottom: 0; /* Remove bottom margin */
 }
 
 footer p {
     text-align: center;
+    margin-bottom: 0; /* Remove bottom margin */
+
 }
